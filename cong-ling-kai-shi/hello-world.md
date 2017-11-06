@@ -1,6 +1,6 @@
 ## 代码从 Hello, World! 开始
 
-任何一种编程语言，都是从 Hello, World! 开始的，这来源于一个\[故事\]\(\[[https://en.wikipedia.org/wiki/"Hello,\_World!"\_program\)。\]\(https://en.wikipedia.org/wiki/"Hello,\_World!"\_program\)。](https://en.wikipedia.org/wiki/"Hello,_World!"_program%29。]%28https://en.wikipedia.org/wiki/"Hello,_World!"_program%29。)\)
+任何一种编程语言，都是从 Hello, World! 开始的，这来源于一个\[故事\]\(\[\[[https://en.wikipedia.org/wiki/"Hello,\_World!"\_program\)。\]\(https://en.wikipedia.org/wiki/"Hello,\_World!"\_program\)。\]\(https://en.wikipedia.org/wiki/"Hello,\_World!"\_program\)。\]\(https://en.wikipedia.org/wiki/"Hello,\_World!"\_program\)。\)\](https://en.wikipedia.org/wiki/"Hello,_World!"_program%29。]%28https://en.wikipedia.org/wiki/"Hello,_World!"_program%29。]%28https://en.wikipedia.org/wiki/"Hello,_World!"_program%29。]%28https://en.wikipedia.org/wiki/"Hello,_World!"_program%29。%29\)\)
 
 写 Hello, World! 的意义在于，运行第一个程序，**入门这个语言。**
 
@@ -8,5 +8,5 @@
 
 但最适用于所有人的好方法是，从官方文档学习，因为这是源头。这里基于的一个事实是，绝大多数优秀语言都有优质的官方文档。文档有可能难读，那么还有官方认可的社区，是另一源头。
 
-例如学习 PHP 这种难以出错的简易语言，到 \[PHP Manual\]\([http://php.net/manual/en/tutorial.php\](http://php.net/manual/en/tutorial.php%29\) 上快速学过一遍最常用的 string 和 array 就可以上手了，顺便再把 \[PHP之道\]\(http://laravel-china.github.io/php-the-right-way/\) 翻一翻更佳。[http://laravel-china.github.io/php-the-right-way/](http://laravel-china.github.io/php-the-right-way/ "PHP 之道")
+例如学习 PHP 这种难以出错的简易语言，到 \[PHP Manual\]\([http://php.net/manual/en/tutorial.php\](http://php.net/manual/en/tutorial.php%29%29 上快速学过一遍最常用的 string 和 array 就可以上手了，顺便再把 [PHP之道]%28http://laravel-china.github.io/php-the-right-way/\) 翻一翻更佳。另外 Yii 也有详细的官方文档。
 
