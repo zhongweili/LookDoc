@@ -7,8 +7,8 @@
   * [hello, world!](cong-ling-kai-shi/hello-world.md)
   * [工具](cong-ling-kai-shi/gong-ju.md)
 * [准备工作](zhun-bei-gong-zuo.md)
-  * 环境搭建
-  * 团队协作
+  * [环境搭建](zhun-bei-gong-zuo/huan-jing-da-jian.md)
+  * [团队协作](zhun-bei-gong-zuo/tuan-dui-xie-zuo.md)
   * 前端
   * 后台
 * [编写代码](bian-xie-dai-ma.md)
