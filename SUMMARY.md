@@ -9,8 +9,9 @@
 * [准备工作](zhun-bei-gong-zuo.md)
   * [环境搭建](zhun-bei-gong-zuo/huan-jing-da-jian.md)
   * [团队协作](zhun-bei-gong-zuo/tuan-dui-xie-zuo.md)
-  * 前端
-  * 后台
+  * [版本控制](zhun-bei-gong-zuo/ban-ben-kong-zhi.md)
+  * [前端](zhun-bei-gong-zuo/qian-duan.md)
+  * [后端](zhun-bei-gong-zuo/hou-duan.md)
 * [编写代码](bian-xie-dai-ma.md)
 * 部署上线
 * 数据分析
