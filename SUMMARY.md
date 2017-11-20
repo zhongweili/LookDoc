@@ -13,7 +13,7 @@
   * [前端](zhun-bei-gong-zuo/qian-duan.md)
   * [后端](zhun-bei-gong-zuo/hou-duan.md)
 * [编写代码](bian-xie-dai-ma.md)
-  * [编码规范](bian-xie-dai-ma/dai-ma-gui-fan.md)
+  * [编码规范](bian-xie-dai-ma/bian-ma-gui-fan.md)
   * [边学边做](bian-xie-dai-ma/bian-xue-bian-zuo.md)
   * [需求排期](bian-xie-dai-ma/xu-qiu-pai-qi.md)
   * [测试](bian-xie-dai-ma/ce-shi.md)

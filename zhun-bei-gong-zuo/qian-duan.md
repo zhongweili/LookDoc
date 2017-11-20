@@ -16,7 +16,31 @@
 
 同时，后端也没闲着，慢慢地发展出高效的模式，借鉴桌面应用程序的MVC思想，网站开发也有了经典的MVC模式，前后端配合得很默契。之后，网站应用越来越复杂，用户对于交互性的要求越来越高，单纯的MVC已经难以胜任，经过改进，MVVM呼之欲出。
 
-### 框架
+### 技能
+
+前端技术更新很快，每一年都有很多新东西出来，也会有些淘汰的东西，从五花八门的前端框架就能看出来了。前端开发者需要掌握的核心技能包括（最好按顺序学习）：
+
+1. Uniform Resource Locators (aka URLs)
+2. Hypertext Transfer Protocol (aka HTTP)
+3. Hyper Text Markup Language (aka HTML)
+4. Cascading Style Sheets (aka CSS)
+5. JavaScript Programming Language (aka ECMAScript 262)
+6. JavaScript Object Notation (aka JSON)
+7. Document Object Model (aka DOM)
+8. Web APIs (aka HTML5 and friends or Browser APIs)
+
+下面列出一些相关的链接
+
+- [HTML 5.2 from W3C](http://w3c.github.io/html/)
+- [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)
+- [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [W3C DOM4](https://www.w3.org/TR/2015/REC-dom-20151119/)
+- [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)
+- [Web API Interfaces](https://developer.mozilla.org/en-US/docs/Web/API)
+- [HTTP/2](https://http2.github.io/)
+- [Introducing JSON](http://json.org/)
+- [JSON API](http://jsonapi.org/)
 
 ### 交互
 
