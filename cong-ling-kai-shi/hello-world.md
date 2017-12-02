@@ -2,7 +2,7 @@
 
 如果说好知识有什么“模式”的话，源头知识大于其他。
 
-任何一种编程语言，都是从 Hello, World! 开始的，这来源于一个[故事](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)。
+细心的你会发现，任何一种编程语言，都是从 Hello, World! 开始的，为什么呢？这来源于一个[故事](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)。
 
 写 Hello, World! 的意义在于，运行第一个程序，**入门这个语言。**
 
