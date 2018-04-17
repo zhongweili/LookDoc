@@ -9,3 +9,5 @@
 我们不是不爱学习，很多时候只是不知道学什么。授人以鱼不如授人以渔，本书不仅包含 web 开发的方方面面，还会助你转变学习思维，带你用元认知能力提升学习效率。
 
 向青草更青处漫溯。让我们扬帆起航！
+
+这是一个 gitbook 项目，参见[全文](https://legacy.gitbook.com/book/zhongweili/lookdoc/details)
